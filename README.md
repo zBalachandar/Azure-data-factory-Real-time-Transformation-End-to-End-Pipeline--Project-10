@@ -56,18 +56,35 @@ Create Source point:
 
 Sink :
 ![image](https://github.com/zBalachandar/Azure-data-factory-Real-time-Transformation-end-to-end-Pipeline-Project-10/blob/93b868a93a4f407a27143a8797420ce942ebc83d/Assets/sink%20config%20in%20ADF.png)
+
  Debug:
 ![image](https://github.com/zBalachandar/Azure-data-factory-Real-time-Transformation-end-to-end-Pipeline-Project-10/blob/93b868a93a4f407a27143a8797420ce942ebc83d/Assets/Dataflow%20debug.png)
 
+Data Preview:
 ![image](https://github.com/zBalachandar/Azure-data-factory-Real-time-Transformation-end-to-end-Pipeline-Project-10/blob/93b868a93a4f407a27143a8797420ce942ebc83d/Assets/Sales%20data%20preview%20in%20adf.png)
 
+pipeline triggered manually:
 ![image](https://github.com/zBalachandar/Azure-data-factory-Real-time-Transformation-end-to-end-Pipeline-Project-10/blob/93b868a93a4f407a27143a8797420ce942ebc83d/Assets/pipeline%20triggered.png)
+
+Results of pipeline:
 ![image](https://github.com/zBalachandar/Azure-data-factory-Real-time-Transformation-end-to-end-Pipeline-Project-10/blob/93b868a93a4f407a27143a8797420ce942ebc83d/Assets/Success%20results%20in%20ADF%20preview%20data.png)
+
+Publish all the Activities and dataflow:
 ![image](https://github.com/zBalachandar/Azure-data-factory-Real-time-Transformation-end-to-end-Pipeline-Project-10/blob/93b868a93a4f407a27143a8797420ce942ebc83d/Assets/pipeline%20publish.png)
+
+Triggered the dataset pipeline:
 ![image](https://github.com/zBalachandar/Azure-data-factory-Real-time-Transformation-end-to-end-Pipeline-Project-10/blob/93b868a93a4f407a27143a8797420ce942ebc83d/Assets/pipeline%20triggered.png)
+
+Pipeline Trigger in progress status:
 ![image](https://github.com/zBalachandar/Azure-data-factory-Real-time-Transformation-end-to-end-Pipeline-Project-10/blob/93b868a93a4f407a27143a8797420ce942ebc83d/Assets/pipeline%20triggered%20inn%20progess.png)
+
+Pipeline Trigger status Success:
 ![image](https://github.com/zBalachandar/Azure-data-factory-Real-time-Transformation-end-to-end-Pipeline-Project-10/blob/93b868a93a4f407a27143a8797420ce942ebc83d/Assets/pipeline%20ran%20success.png)
+
+Container in Output files
 ![image](https://github.com/zBalachandar/Azure-data-factory-Real-time-Transformation-end-to-end-Pipeline-Project-10/blob/93b868a93a4f407a27143a8797420ce942ebc83d/Assets/output%20file%20succeed.png)
+
+Desired Output :
 ![image](https://github.com/zBalachandar/Azure-data-factory-Real-time-Transformation-end-to-end-Pipeline-Project-10/blob/93b868a93a4f407a27143a8797420ce942ebc83d/Assets/output%20file%20edit%20view..Desired%20results%20end.png)
 
 
