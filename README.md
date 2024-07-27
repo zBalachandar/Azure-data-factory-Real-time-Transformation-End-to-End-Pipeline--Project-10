@@ -35,29 +35,49 @@ what we have covered in this project:
 
 <a name="data-transformation"></a>
 ### ⚙️ Data Pipeline
- Data pipeline and processing using AZURE DATA FACTORY.
+ Create the resources for Data pipeline and processing using AZURE DATA FACTORY.
 ![image](https://github.com/zBalachandar/Azure-data-factory-Real-time-Transformation-end-to-end-Pipeline-Project-10/blob/531ef59f65fb8326a86e172d8802420763c92ad9/Assets/AZURE%20portal%20ov.png)
-![image](https://github.com/zBalachandar/Azure-data-factory-Real-time-Transformation-end-to-end-Pipeline-Project-10/blob/531ef59f65fb8326a86e172d8802420763c92ad9/Assets/Datafactory%20ov.png)
+
+Azure Blob Storage -input Container:
+![image](https://github.com/zBalachandar/Azure-data-factory-Real-time-Transformation-end-to-end-Pipeline-Project-10/blob/93b868a93a4f407a27143a8797420ce942ebc83d/Assets/AZURE%20Datalake%20storage%20containers.png)
+
 ![image](https://github.com/zBalachandar/Azure-data-factory-Real-time-Transformation-end-to-end-Pipeline-Project-10/blob/531ef59f65fb8326a86e172d8802420763c92ad9/Assets/Input%20sales%20data%20file.png)
+
+Create the Azure Data Factory:
 ![image](https://github.com/zBalachandar/Azure-data-factory-Real-time-Transformation-end-to-end-Pipeline-Project-10/blob/531ef59f65fb8326a86e172d8802420763c92ad9/Assets/Datafactory%20ov.png)
 
-![image]()
-![image]()
-![image]()
-Result output :
-![image]()
+Create the Copy Activity :
+![image](https://github.com/zBalachandar/Azure-data-factory-Real-time-Transformation-end-to-end-Pipeline-Project-10/blob/531ef59f65fb8326a86e172d8802420763c92ad9/Assets/Datafactory%20ov.png)
 
-![image]()
+Create Source point: 
+![image](https://github.com/zBalachandar/Azure-data-factory-Real-time-Transformation-end-to-end-Pipeline-Project-10/blob/93b868a93a4f407a27143a8797420ce942ebc83d/Assets/dataflow%20source.png)
 
-End Result:
-![image]()
+![image](https://github.com/zBalachandar/Azure-data-factory-Real-time-Transformation-end-to-end-Pipeline-Project-10/blob/93b868a93a4f407a27143a8797420ce942ebc83d/Assets/pivot%20transformation%20in%20ADF.png)
+
+Sink :
+![image](https://github.com/zBalachandar/Azure-data-factory-Real-time-Transformation-end-to-end-Pipeline-Project-10/blob/93b868a93a4f407a27143a8797420ce942ebc83d/Assets/sink%20config%20in%20ADF.png)
+ Debug:
+![image](https://github.com/zBalachandar/Azure-data-factory-Real-time-Transformation-end-to-end-Pipeline-Project-10/blob/93b868a93a4f407a27143a8797420ce942ebc83d/Assets/Dataflow%20debug.png)
+
+![image](https://github.com/zBalachandar/Azure-data-factory-Real-time-Transformation-end-to-end-Pipeline-Project-10/blob/93b868a93a4f407a27143a8797420ce942ebc83d/Assets/Sales%20data%20preview%20in%20adf.png)
+
+![image](https://github.com/zBalachandar/Azure-data-factory-Real-time-Transformation-end-to-end-Pipeline-Project-10/blob/93b868a93a4f407a27143a8797420ce942ebc83d/Assets/pipeline%20triggered.png)
+![image](https://github.com/zBalachandar/Azure-data-factory-Real-time-Transformation-end-to-end-Pipeline-Project-10/blob/93b868a93a4f407a27143a8797420ce942ebc83d/Assets/Success%20results%20in%20ADF%20preview%20data.png)
+![image](https://github.com/zBalachandar/Azure-data-factory-Real-time-Transformation-end-to-end-Pipeline-Project-10/blob/93b868a93a4f407a27143a8797420ce942ebc83d/Assets/pipeline%20publish.png)
+![image](https://github.com/zBalachandar/Azure-data-factory-Real-time-Transformation-end-to-end-Pipeline-Project-10/blob/93b868a93a4f407a27143a8797420ce942ebc83d/Assets/pipeline%20triggered.png)
+![image](https://github.com/zBalachandar/Azure-data-factory-Real-time-Transformation-end-to-end-Pipeline-Project-10/blob/93b868a93a4f407a27143a8797420ce942ebc83d/Assets/pipeline%20triggered%20inn%20progess.png)
+![image](https://github.com/zBalachandar/Azure-data-factory-Real-time-Transformation-end-to-end-Pipeline-Project-10/blob/93b868a93a4f407a27143a8797420ce942ebc83d/Assets/pipeline%20ran%20success.png)
+![image](https://github.com/zBalachandar/Azure-data-factory-Real-time-Transformation-end-to-end-Pipeline-Project-10/blob/93b868a93a4f407a27143a8797420ce942ebc83d/Assets/output%20file%20succeed.png)
+![image](https://github.com/zBalachandar/Azure-data-factory-Real-time-Transformation-end-to-end-Pipeline-Project-10/blob/93b868a93a4f407a27143a8797420ce942ebc83d/Assets/output%20file%20edit%20view..Desired%20results%20end.png)
+
+
 
 
 
 ### 🛠️ Technologies Used
 
 - **Data Pipeline**: Azure Data Factory
-- **Data processing(Aggregation)**: ADF
+- **Data processing(pivot)**: ADF
 
 <a name="credits"></a>
 ## 📋 Credits
